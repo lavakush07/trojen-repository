@@ -1,0 +1,15 @@
+{
+  "name": "demo-compromised-webapp",
+  "version": "1.0.0",
+  "description": "A demo JavaScript web app containing compromised packages for SBOM/testing UI purposes.",
+  "scripts": {
+    "start": "echo 'Demo app - not intended for execution'"
+  },
+  "dependencies": {
+    "is": "3.3.0",
+    "canvas-constructor": "4.0.0",
+    "eventsource": "1.1.0",
+    "ua-parser-js": "0.7.29",
+    "eslint-config-prettier": "9.0.0"
+  }
+}
